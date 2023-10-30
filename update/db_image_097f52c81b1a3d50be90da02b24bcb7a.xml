@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <format/>
+        <height/>
+        <image>6bdfde881b1a3d50be90da02b24bcbd0</image>
+        <name>flag.svg</name>
+        <size_bytes>548</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>Stefan.Uzunov@nuvolo.com</sys_created_by>
+        <sys_created_on>2023-10-30 16:15:11</sys_created_on>
+        <sys_id>097f52c81b1a3d50be90da02b24bcb7a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>flag.svg</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>db_image_097f52c81b1a3d50be90da02b24bcb7a</sys_update_name>
+        <sys_updated_by>Stefan.Uzunov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2023-10-30 16:16:17</sys_updated_on>
+        <thumbnail/>
+        <width/>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>image</file_name>
+        <hash>fbfea09b6c7317fbddfd57300c1189e028b6b81470881797ba953c3b6544857a</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>548</size_bytes>
+        <size_compressed>366</size_compressed>
+        <state>available</state>
+        <sys_created_by>Stefan.Uzunov@nuvolo.com</sys_created_by>
+        <sys_created_on>2023-10-30 16:16:16</sys_created_on>
+        <sys_id>6bdfde881b1a3d50be90da02b24bcbd0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-30 16:16:17</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>097f52c81b1a3d50be90da02b24bcb7a</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="6bdfde881b1a3d50be90da02b24bcbd0">6bdfde881b1a3d50be90da02b24bcbd0</sys_attachment>
+        <sys_created_by>Stefan.Uzunov@nuvolo.com</sys_created_by>
+        <sys_created_on>2023-10-30 16:16:16</sys_created_on>
+        <sys_id>abdfde881b1a3d50be90da02b24bcbd0</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>fVFha+MwDP0rWj5tMCm2rDjuaMvuCoODHRwM+r3zsjaQxKUJy7ZfP7nrwX06MEbSe9J7spfj2x7e+24YV8Vhmo53ZTnPM82O0mlfsjGmVEYBb20z/0zvq8KAAZEAleVivbxCvIKHNEzwY27G1Dfw55TAkxDD8wfcvyq0uyAIWWBUhX+qFFMPj21shvE/jLK7MK43qe+bU2x33d+uG9ik48ep3R8mYMPubKeNaRhv4dcQCRDXy+NuOsDLqvjtBRxv9LZCDmRBte7jGMyT+S7lbJtZPoAEE7VcK+mMKe98Rsd4KaCyXcWd1xStJxvFkkVrFA1CHiuqwDLn25FEyS+jqYVFRlgo6GyrCjVJ54RqtC5a5aPGuhCFPNZ/R85sfdYwyA61V+UD6siArCY7XChRs4jiVZ+dEqzRxksoteqaiK7KFmt1V1ckyAqpuQqz7KPuLmHr+LMo18v8+esvJk7QqiQCAAA=</data>
+        <length>476</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="6bdfde881b1a3d50be90da02b24bcbd0">6bdfde881b1a3d50be90da02b24bcbd0</sys_attachment>
+        <sys_created_by>Stefan.Uzunov@nuvolo.com</sys_created_by>
+        <sys_created_on>2023-10-30 16:16:16</sys_created_on>
+        <sys_id>2fdfde881b1a3d50be90da02b24bcbd0</sys_id>
+    </sys_attachment_doc>
+</record_update>

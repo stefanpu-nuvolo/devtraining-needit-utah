@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "029f04e053610110ac9bddeeff7b1294": {
+        "inputTable": "task",
+        "inputSysId": "162b01301bce7d10be90da02b24bcbde"
+    },
+    "table": "x_nuvo_cs_risk_assessment",
+    "sysId": "3ca9ca871b423950be90da02b24bcb72",
+    "query": ""
+}</macroponent_config>
+        <screen display_value="Default Home Page">fa56e1c81b163d50be90da02b24bcb50</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>Stefan.Uzunov@nuvolo.com</sys_created_by>
+        <sys_created_on>2023-10-30 12:05:00</sys_created_on>
+        <sys_id>3256e1c81b163d50be90da02b24bcb55</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_3256e1c81b163d50be90da02b24bcb55</sys_update_name>
+        <sys_updated_by>Stefan.Uzunov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2023-10-30 14:22:38</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

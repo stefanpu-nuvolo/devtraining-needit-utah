@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
     <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
         <macroponent_config>{
-    "029f04e053610110ac9bddeeff7b1294": {
-        "inputTable": "x_58872_needit_needit",
-        "inputSysId": "0ce6fd4c1b563d50be90da02b24bcbc8"
-    }
+    "table": "task",
+    "sysId": "162b01301bce7d10be90da02b24bcbde",
+    "query": "",
+    "extraParams": "",
+    "views": "",
+    "selectedTabIndex": ""
 }</macroponent_config>
-        <screen display_value="Sys Admin home">53d11afb1b818d10b81fdce7cc4bcb18</screen>
+        <screen/>
         <sys_class_name>sys_uib_screen_test_values</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-01-21 15:00:22</sys_created_on>
-        <sys_id>abd11afb1b818d10b81fdce7cc4bcb1b</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_created_by>Stefan.Uzunov@nuvolo.com</sys_created_by>
+        <sys_created_on>2023-10-31 11:15:44</sys_created_on>
+        <sys_id>87a46a1c1b9a7d50be90da02b24bcb79</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_uib_screen_test_values_abd11afb1b818d10b81fdce7cc4bcb1b</sys_update_name>
+        <sys_update_name>sys_uib_screen_test_values_87a46a1c1b9a7d50be90da02b24bcb79</sys_update_name>
         <sys_updated_by>Stefan.Uzunov@nuvolo.com</sys_updated_by>
-        <sys_updated_on>2023-10-31 11:23:46</sys_updated_on>
+        <sys_updated_on>2023-10-31 11:15:44</sys_updated_on>
     </sys_uib_screen_test_values>
 </record_update>
